@@ -33,5 +33,40 @@
                 "cerveza",
                 "bebidas"
             ]
+        },
+        {
+            "id": 1,
+            "sector": "restaurante",
+            "emoji_principal": "🍗",
+            "emoji_recomendado": "⭐",
+            "nombre_negocio": "Wingman Celaya",
+            "colonia": "Col. Rosalinda",
+            "link_whatsapp": "https://bit.ly/ContactoRosettaMX",
+            "rank": 10,
+            "empresa": "",
+            "lat": 0,
+            "lon": 0,
+            "keywords": [
+                "alitas",
+                "restaurante",
+                "picantes",
+                "bbq",
+                "promociones",
+                "para llevar",
+                "a domicilio",
+                "picante",
+                "papas fritas",
+                "papas a la francesa",
+                "boneless",
+                "bonles",
+                "alitas de pollo",
+                "bounles",
+                "wings",
+                "bufalo",
+                "habanero",
+                "bar",
+                "cerveza",
+                "bebidas"
+            ]
         }
 ]
